@@ -1,7 +1,7 @@
 import Button from "@/components/commons/Button";
 import Loading from "@/components/commons/Loading";
 import MovieCard from "@/components/commons/MovieCard";
-import { MoviesProps } from "@/interface";
+import { MoviesProps } from "@/interfaces";
 import { useCallback, useEffect, useState } from "react";
 
 interface MProps {
